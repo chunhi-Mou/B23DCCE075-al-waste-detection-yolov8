@@ -81,6 +81,10 @@ Mỗi tệp `.bat` có thể được thực thi bằng cách nhấp đúp hoặ
 
 Bốn tệp AL từ 02 đến 05 độc lập với nhau và có thể chạy theo thứ tự bất kỳ, nhưng cần hoàn thành cả bốn trước khi chạy `06_report.bat`.
 
+### Kaggle mẫu
+Đây là link Kaggle được sử dụng để huấn luyện cho Random, với file code và tập dữ liệu ảnh được up lên ở mục input của Kaggle.
+Tuy nhiên có thể đổi config ở cell 2 để chạy các AL khác.
+[![Kaggle](https://img.shields.io/badge/Kaggle-Click%20Me-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nhichu/b23dcce075-al-kaggle)
 ### Demo
 
 Tệp `07_demo.bat` khởi chạy ứng dụng demo tại `http://127.0.0.1:7860`. 
