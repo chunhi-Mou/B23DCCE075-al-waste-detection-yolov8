@@ -1,152 +1,90 @@
-# Mã nguồn pipeline Active Learning phát hiện rác thải với YOLOv8
+# Active Learning cho phát hiện rác thải sinh hoạt với YOLOv8
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![YOLOv8n](https://img.shields.io/badge/YOLOv8n-Ultralytics-00BFA5)
 ![Gradio](https://img.shields.io/badge/Demo-Gradio-F97316?logo=gradio&logoColor=white)
-![Windows](https://img.shields.io/badge/Run-Windows%20.bat-0078D6?logo=windows&logoColor=white)
 ![PTIT](https://img.shields.io/badge/PTIT-2026-C2185B)
-
-Thư mục này chứa toàn bộ mã nguồn cần thiết để tái lập pipeline của đề tài: chuẩn bị dữ liệu, huấn luyện mô hình đối chứng, chạy bốn chiến lược Active Learning, tổng hợp báo cáo và ứng dụng web demo. Thư mục không bao gồm dữ liệu và trọng số mô hình.
 
 ## Mục lục
 
-- [Cấu trúc thư mục](#cấu-trúc-thư-mục)
-- [Chạy pipeline](#chạy-pipeline)
-- [Dữ liệu gốc](#dữ-liệu-gốc)
+- [Giới thiệu dự án](#giới-thiệu-dự-án)
+- [Cài đặt và chạy](#cài-đặt-và-chạy)
+  - [Môi trường](#môi-trường)
+  - [Dữ liệu](#dữ-liệu)
+  - [Các lệnh chính](#các-lệnh-chính)
+  - [Demo](#demo)
 
-## Cấu trúc thư mục
+## Giới thiệu dự án
 
-```
-README.md                 Tài liệu này
-requirements.txt          Danh sách thư viện kèm phiên bản đã ghim
-requirements.lock.txt     Bản khóa đầy đủ của mọi phụ thuộc
-pyproject.toml            Khai báo gói albench
-albench/                  Gói Python lõi của benchmark
-bat/                      Tệp chạy tự động trên Windows
-configs/                  Tham số cấu hình
-scripts/                  Các script dòng lệnh
-kaggle/                   Notebook chạy trên Kaggle
-demo/                     Ứng dụng web demo Gradio
-```
+Dự án so sánh bốn chiến lược Active Learning trên cùng một mô hình YOLOv8n để phát hiện rác thải sinh hoạt theo vật liệu, trong điều kiện ngân sách gán nhãn bị giới hạn. Câu hỏi trọng tâm là một chiến lược chọn mẫu thông minh có giúp giảm lượng nhãn cần gán so với chọn ngẫu nhiên hay không.
 
-### Gói `albench/`
+Tập dữ liệu gồm 12.621 ảnh, năm lớp vật liệu tái chế, tách 80/10/10 với hạt giống 13. Tập kiểm thử được giữ cố định, không tham gia vòng lặp huấn luyện. Hai đặc tính chi phối kết quả là mất cân bằng lớp khoảng 16:1 và 93,3% ảnh huấn luyện chỉ chứa một vật thể.
 
-Gói Python triển khai toàn bộ logic benchmark.
+| Chiến lược | Ý tưởng | Nguồn |
+|---|---|---|
+| ![S0](https://img.shields.io/badge/S0-Random-9E9E9E) | Chọn ngẫu nhiên phân phối đều, làm đối chứng | Settles, 2009 |
+| ![S1](https://img.shields.io/badge/S1-Uncertainty-1E88E5) | Bình phương biên khoảng cách hai lớp xác suất cao nhất | Brust, VISAPP 2019, arXiv:1809.09875 |
+| ![S2](https://img.shields.io/badge/S2-CoreSet-43A047) | Vector toàn cục mỗi ảnh, k-Center-Greedy phủ đặc trưng | Sener & Savarese, ICLR 2018, arXiv:1708.00489 |
+| ![S3](https://img.shields.io/badge/S3-PPAL-8E24AA) | Đường ống hai giai đoạn bất định kết hợp đa dạng | Yang, CVPR 2024, arXiv:2211.11612 |
 
-| Thành phần | Vai trò |
-|---|---|
-| `config.py` | Đọc và hợp nhất cấu hình từ thư mục `configs/` |
-| `repro.py` | Cố định hạt giống và tính mã băm để bảo đảm tái lập |
-| `al/` | Engine Active Learning (xem bảng dưới) |
-| `data/` | Quét, kiểm định và tách dữ liệu thô |
+Bốn chiến lược dùng chung tập khởi tạo theo từng hạt giống và cùng cấu hình huấn luyện, nên khác biệt đo được chỉ đến từ cách chọn mẫu. Quy trình chạy ba lượt (hạt giống 13, 42, 1337), khởi tạo 5% kho dữ liệu, mỗi vòng thêm 2,5% đến trần 20%, mỗi vòng 30 epoch không dừng sớm, ảnh 416, batch 64.
 
-**`albench/al/` — engine Active Learning**
+Vòng lặp Active Learning:
 
-| Tệp | Vai trò |
-|---|---|
-| `loop.py` | Vòng lặp chính mỗi lần chạy: chấm điểm kho dữ liệu, chọn lô ngân sách, huấn luyện lại, lặp |
-| `select_random.py` | ![S0](https://img.shields.io/badge/S0-Random-9E9E9E) Chọn ngẫu nhiên phân phối đều |
-| `select_uncertainty.py` | ![S1](https://img.shields.io/badge/S1-Uncertainty-1E88E5) Chọn theo độ bất định |
-| `select_coreset.py` | ![S2](https://img.shields.io/badge/S2-CoreSet-43A047) Chọn theo tính đa dạng |
-| `select_ppal.py` | ![S3](https://img.shields.io/badge/S3-PPAL-8E24AA) Chiến lược kết hợp hai giai đoạn |
-| `ppal_difficulty.py`, `ppal_features.py`, `ppal_stage2.py`, `ccms.py` | Thành phần riêng của PPAL: độ bất định hiệu chỉnh theo độ khó, trích xuất đặc trưng, chọn đa dạng giai đoạn hai, tái cân bằng theo lớp |
-| `score_predictor.py` | Suy luận để chấm điểm kho dữ liệu chưa gán nhãn |
-| `init_set.py` | Tạo tập khởi tạo bảo đảm phủ lớp |
-| `dataset.py` | Liệt kê kho dữ liệu, xác định lớp từng ảnh, ghi `data.yaml` cho mỗi vòng |
-| `state.py` | Lưu và đọc trạng thái từng vòng để tiếp tục khi gián đoạn |
-| `device.py` | Chọn thiết bị theo thứ tự CUDA, MPS, CPU |
-| `metrics.py`, `stats.py`, `health.py` | Đo mAP, kiểm định thống kê, kiểm tra tính hợp lệ kết quả |
-| `charts.py`, `ppal_charts.py`, `tables.py`, `report_io.py` | Vẽ biểu đồ, lập bảng AUBC, đọc ghi tệp kết quả |
+<img width="540" height="300" alt="diagram_al_loop" src="https://github.com/user-attachments/assets/054cf025-d377-454c-a745-0ce3ac95d652" />
 
-**`albench/data/` — xử lý dữ liệu thô**
 
-| Tệp | Vai trò |
-|---|---|
-| `labels.py` | Quét ảnh và nhãn |
-| `audit.py` | Kiểm định dataset |
-| `split.py` | Tách tập train, val, test |
+Mô hình huấn luyện trên 100% tập dữ liệu đạt mAP@50 bằng 0,9383, làm mốc giới hạn trên. Trên miền dữ liệu đơn vật thể này, không chiến lược chủ động nào vượt chọn ngẫu nhiên ở mức có ý nghĩa thống kê: chỉ cặp Uncertainty với CoreSet đạt p-value 0,043, mọi so sánh với Random đều cho p-value lớn hơn 0,49. Đường cong học tập của bốn chiến lược bám sát và đan xen nhau.
 
-### `bat/`
+Đường cong mAP50 theo ngân sách:
 
-Các tệp chạy tự động trên Windows, mỗi tệp phụ trách một bước và chạy riêng lẻ. Mỗi tệp tự chuyển về thư mục gốc của bundle, thiết lập đường dẫn, cài thư viện còn thiếu và truyền tham số phù hợp.
+<img width="420" height="300" alt="curve_test_mAP50" src="https://github.com/user-attachments/assets/814d0867-c7d8-4caa-9017-ea746f99f6b7" />
 
-| Tệp | Chức năng |
-|---|---|
-| `00_prepare_data.bat` | Dựng `export/` từ `Dataset/` gốc |
-| `01_baseline.bat` | Huấn luyện mô hình đối chứng trên 100% dữ liệu |
-| `02_al_random.bat` | Chạy chiến lược S0 Random |
-| `03_al_uncertainty.bat` | Chạy chiến lược S1 Uncertainty |
-| `04_al_coreset.bat` | Chạy chiến lược S2 CoreSet |
-| `05_al_ppal.bat` | Chạy chiến lược S3 PPAL |
-| `06_report.bat` | Tổng hợp biểu đồ, bảng AUBC và kiểm định t-test |
-| `07_demo.bat` | Khởi chạy ứng dụng web demo |
+Kết quả sự khác biệt không đáng kể giữa các AL này khoanh vùng được loại dữ liệu mà Active Learning chưa bù lại chi phí cài đặt, nhất quán với Gashi 2024 (arXiv:2403.14800). Đóng góp thực tiễn là bản chuyển đổi PPAL từ RetinaNet sang YOLOv8, kèm một ứng dụng web demo Gradio nhận diện và thống kê vật liệu từ ảnh.
 
-### `configs/`
+## Cài đặt và chạy
 
-| Tệp | Vai trò |
-|---|---|
-| `benchmark.yaml` | Mọi tham số pipeline: dữ liệu, cấu hình huấn luyện, lịch trình Active Learning, tham số từng chiến lược |
-| `seeds.yaml` | Khai báo tập hạt giống dùng cho thí nghiệm |
+### Yêu cầu
 
-### `scripts/`
+Máy tính cần cài đặt sẵn Python. Các tác vụ còn lại được các tệp `.bat` trong thư mục `bat\` thực hiện tự động, bao gồm cài đặt thư viện còn thiếu theo `requirements.txt`, thiết lập đường dẫn và truyền tham số phù hợp. Trường hợp sử dụng môi trường ảo, hãy tạo `.venv` trước khi chạy, các tệp này sẽ tự động nhận diện.
 
-Các script dòng lệnh được các tệp `bat/` và notebook `kaggle/` gọi tới.
+### Dữ liệu
 
-| Script | Vai trò |
-|---|---|
-| `01_audit_dataset.py` | Kiểm định dataset thô và xuất báo cáo |
-| `02_make_splits.py` | Tách tập train, val, test đã cố định và ghi mã băm |
-| `03_train_baseline.py` | Huấn luyện mô hình đối chứng |
-| `06_export_dataset.py` | Xuất dữ liệu thành cấu trúc ba thư mục độc lập trong `export/` |
-| `07_distribution_charts.py` | Vẽ biểu đồ phân bố lớp |
-| `10_run_al.py` | Điều phối chạy các chiến lược Active Learning theo từng hạt giống |
-| `11_al_report.py` | Tổng hợp kết quả thành biểu đồ, bảng và kiểm định thống kê |
-
-### `kaggle/`
-
-Hai notebook chạy trên Kaggle với GPU T4, đọc mã nguồn và dữ liệu từ các Kaggle Dataset.
-
-| Notebook | Vai trò |
-|---|---|
-| `kaggle_baseline.ipynb` | Huấn luyện mô hình đối chứng trên 100% dữ liệu |
-| `kaggle_al.ipynb` | Chạy bốn chiến lược Active Learning và tổng hợp báo cáo |
-
-### `demo/`
-
-Ứng dụng web demo viết bằng Gradio.
-
-| Thành phần | Vai trò |
-|---|---|
-| `app.py` | Dựng giao diện và kết nối các thành phần |
-| `engine.py` | Tìm trọng số mô hình và chạy suy luận trên ảnh tải lên |
-| `content.py` | Định dạng kết quả tiếng Việt và các thành phần hiển thị |
-| `charts.py` | Vẽ biểu đồ kết quả benchmark trong ứng dụng |
-| `icons.py` | Biểu tượng dạng SVG |
-| `examples/` | Ảnh mẫu cho phần thử nhanh |
-| `README.md` | Hướng dẫn riêng cho ứng dụng demo |
-
-## Chạy pipeline
-
-Mã nguồn không kèm dữ liệu. Trước khi chạy, đặt thư mục dữ liệu `export/` cùng cấp với `albench/` và `bat/`, theo cấu trúc sau.
+Quy trình đọc dữ liệu từ `export/data.yaml`, một bộ dữ liệu YOLO gồm ba thư mục đã được cố định theo hạt giống 13. Dữ liệu được đặt tại thư mục gốc của dự án theo cấu trúc sau:
 
 ```
 export/
-├─ data.yaml
-├─ train/images/  train/labels/
-├─ val/images/    val/labels/
-└─ test/images/   test/labels/
+  data.yaml                     # khai báo train val test, nc=5, names
+  train/images/  train/labels/
+  val/images/    val/labels/
+  test/images/   test/labels/
 ```
 
-Trên Windows, chạy lần lượt các tệp trong `bat/` theo thứ tự `01_baseline.bat`, bốn tệp AL từ `02` đến `05`, sau đó `06_report.bat` để tổng hợp kết quả và `07_demo.bat` để mở ứng dụng demo. Bốn tệp AL độc lập với nhau và có thể chạy theo thứ tự bất kỳ, nhưng cần hoàn thành cả bốn trước khi chạy `06_report.bat`.
+Nhãn tuân theo chuẩn YOLO. Mỗi ảnh tương ứng một tệp `.txt` cùng tên, mỗi dòng có dạng `class cx cy w h` đã chuẩn hóa về khoảng 0..1. Năm lớp được giữ cố định theo thứ tự cardboard 0, paper 1, glass 2, metal 3, plastic 4.
 
-## Dữ liệu gốc
+Phép tách dữ liệu đã được cố định nên thông thường không cần tạo lại. Trường hợp cần dựng lại `export/` từ ảnh gốc, hãy đặt ảnh vào `Dataset/images/` và nhãn vào `Dataset/labels/` trong cùng một thư mục, sau đó chạy `bat\00_prepare_data.bat`.
 
-Thư mục `export/` ở trên đã được chia sẵn và cố định nên thông thường đủ để chạy toàn bộ pipeline. Chỉ khi cần dựng lại `export/` từ đầu bằng `00_prepare_data.bat` mới cần dữ liệu gốc, đặt vào thư mục `Dataset/` cùng cấp với `albench/` và `bat/`, theo cấu trúc phẳng sau.
+### Các bước chạy
 
-```
-Dataset/
-├─ images/      Toàn bộ ảnh .jpg .jpeg hoặc .png, chưa chia tập
-└─ labels/      Nhãn .txt tương ứng, cùng tên tệp với ảnh
-```
+Mỗi tệp `.bat` có thể được thực thi bằng cách nhấp đúp hoặc gõ tên tệp trong Command Prompt. Các bước được thực hiện lần lượt theo thứ tự sau.
 
-Mỗi ảnh có một tệp nhãn cùng tên, ghép theo phần tên không tính phần mở rộng. Nhãn tuân theo chuẩn YOLO, mỗi dòng gồm đúng năm trường `class cx cy w h`. Trường `class` là số nguyên từ 0 đến 4 theo thứ tự cardboard, paper, glass, metal, plastic, còn `cx cy w h` đã chuẩn hóa về khoảng 0..1. Khác với `export/`, thư mục `Dataset/` để toàn bộ ảnh trong một thư mục duy nhất, việc chia train, val, test do `00_prepare_data.bat` thực hiện.
+| File | Dùng để | Khi nào chạy |
+|---|---|---|
+| `00_prepare_data.bat` | Dựng `export/` từ `Dataset/` gốc (kiểm định, tách tập, xuất dữ liệu, biểu đồ) | Tùy chọn, bỏ qua nếu đã có `export/` |
+| `01_baseline.bat` | Huấn luyện trên 100% dữ liệu | Bước 1 |
+| `02_al_random.bat` | S0 Random, ba hạt giống | Bước 2 |
+| `03_al_uncertainty.bat` | S1 Uncertainty, ba hạt giống | Bước 3 |
+| `04_al_coreset.bat` | S2 CoreSet, ba hạt giống | Bước 4 |
+| `05_al_ppal.bat` | S3 PPAL, ba hạt giống | Bước 5 |
+| `06_report.bat` | Tổng hợp biểu đồ, bảng AUBC, t-test | Sau khi xong baseline và cả bốn chiến lược |
+| `07_demo.bat` | Mở ứng dụng web demo Gradio | Yêu cầu đã huấn luyện baseline |
+
+Bốn tệp AL từ 02 đến 05 độc lập với nhau và có thể chạy theo thứ tự bất kỳ, nhưng cần hoàn thành cả bốn trước khi chạy `06_report.bat`.
+
+### Kaggle mẫu
+Đây là link Kaggle được sử dụng để huấn luyện cho Random, với file code và tập dữ liệu ảnh được up lên ở mục input của Kaggle.
+Tuy nhiên có thể đổi config ở cell 2 để chạy các AL khác.
+[![Kaggle](https://img.shields.io/badge/Kaggle-Click%20Me-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nhichu/b23dcce075-al-kaggle)
+### Demo
+
+Tệp `07_demo.bat` khởi chạy ứng dụng demo tại `http://127.0.0.1:7860`. 
