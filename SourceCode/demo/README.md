@@ -3,10 +3,7 @@
 ## Giới thiệu
 
 Ứng dụng web Gradio minh hoạ mô hình YOLOv8n phát hiện và phân loại rác thải theo
-vật liệu (5 lớp: bìa carton, giấy, thuỷ tinh, kim loại, nhựa). Có 3 tab: **Phân tích**
-(tải ảnh hoặc chụp webcam để nhận diện và xem mẹo tái chế), **Kết quả huấn luyện**
-(biểu đồ so sánh 4 chiến lược Active Learning đọc từ `results/`), và **Dev / So sánh**
-(chọn model bất kỳ, chỉnh ngưỡng, xem chi tiết phát hiện).
+vật liệu (5 lớp: bìa carton, giấy, thuỷ tinh, kim loại, nhựa). 
 
 ## Cài đặt và chạy
 
