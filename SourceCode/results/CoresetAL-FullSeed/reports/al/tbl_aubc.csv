@@ -1,0 +1,2 @@
+strategy,AUBC,mAP_at_cap,n_seeds
+S2 CoreSet,0.819 ± 0.003,0.861 ± 0.009,3

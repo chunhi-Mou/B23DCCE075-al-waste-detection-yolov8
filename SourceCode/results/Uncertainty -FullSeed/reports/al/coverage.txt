@@ -1,0 +1,6 @@
+| strategy | seed | rounds_done | AUBC-complete |
+| --- | --- | --- | --- |
+| uncertainty | 13 | 7 | yes |
+| uncertainty | 42 | 7 | yes |
+| uncertainty | 1337 | 7 | yes |
+

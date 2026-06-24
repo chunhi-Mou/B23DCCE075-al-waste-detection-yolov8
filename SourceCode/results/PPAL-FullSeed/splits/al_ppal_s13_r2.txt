@@ -1,0 +1,1010 @@
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000001 (2).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000002 (2).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000002.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000004 (5).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000007 (4).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000007 (7).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000008 (4).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000009 (6).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000009.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000010 (7).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000011 (5).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000013.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000014 (6).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000015 (6).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000017 (2).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000017 (7).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000019.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000022 (2).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000025 (7).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000028 (5).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000028.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000030 (4).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000034 (5).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000034.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000035 (7).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000037 (3).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000037 (7).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000037.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000039 (3).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000040 (3).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000040 (7).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000042 (7).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000044 (3).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000045.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000047 (5).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000047.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000048 (5).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000049 (3).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000051.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000054.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000056 (5).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000059 (2).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000060 (4).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000062.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000064.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000069 (4).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000071 (7).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000072 (7).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000074 (4).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000079.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000084 (3).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000085 (4).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000085 (5).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000087 (4).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000088.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000090.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000096.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000098 (4).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000102 (3).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000115 (2).JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000124.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/000128.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/123833_jpg.rf.3cbab9a2d55136b569f6328bd8c785c6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/123838_jpg.rf.7b1aae6d1de11ef4241ea2664f553a3d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/123843_jpg.rf.9acbc569ce25162ab29e951350a80931.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/126062_jpg.rf.87d1a329e23711c6d0692a6135da2152.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/127724_jpg.rf.1713b70b56fd3aab3b81fa04001a6a2b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135082_jpg.rf.dc42db8a9b2bdffe0d141b15c6ceb05e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135180_jpg.rf.6f53d2a1fd8c28390515f0c912f6d9f9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135186_jpg.rf.307d619029059aeb5965cdef5a5f4894.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135189_jpg.rf.1015c59159d970c3e5e564f9c775d824.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135478_jpg.rf.51391aedc07bd3f34c0272dbf9a06ea7.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135484_jpg.rf.d14bdb0aec45d5251d1e5ec10df460b9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135491_jpg.rf.ebf60855d91c635b6f6dfa85ce6b1e51.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135496_jpg.rf.377587f8a51ed2d33949c64ee1b55836.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135497_jpg.rf.545d8f67b46a90d0ac513a43334a9b9e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135501_jpg.rf.717429ac1e64bd2db351208f02dbb90f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135507_jpg.rf.2a490fef4173a35cfb4b606c11038dbf.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135574_jpg.rf.86d5edf764ad80450027b746f233a20a.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135575_jpg.rf.2752de8b9a86b9db588b149de36201f0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135584_jpg.rf.3094722287be7866da924477fb26a2c3.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135624_jpg.rf.f4cdf4f3fcb60359f0b630fc7588b4ed.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135626_jpg.rf.2c86fb90a52516b96db8a95d694722f8.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135634_jpg.rf.d28afdfbae5bfce4b8aad95e576c554c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135666_jpg.rf.60954f592b8dea3e13722f10751cfbdd.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135670_jpg.rf.91f7541415e4998671e2719c86e0ec81.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135673_jpg.rf.4a06ea401f68d8346d9253fae356450d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135690_jpg.rf.f02fc953c3e9007e8402d7745ff26056.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135704_jpg.rf.f6057e0eea9147729f0d4a02efc5999f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135708_jpg.rf.a8204d729c417f39affb8f2e100c2335.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135714_jpg.rf.fd7214ece149522ec705a6c66a1167c9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135723_jpg.rf.1673f0f29e73f85c8891e8850815ebf9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135727_jpg.rf.0a76fd6a91a82b88774f7d04b75e6f6e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135733_jpg.rf.24bd7de573aadd9af88375a18efd2edf.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135874_jpg.rf.dc2c142b59c2a2e7a3a0bb8e42ec424d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135877_jpg.rf.2a4dc39daeb1c488d11460ae2c08b495.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135884_jpg.rf.4031a588cb96f5beba77bf3b4d88beb6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135885_jpg.rf.ce3979670043e8c2fab6147cbf9caed1.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135893_jpg.rf.2f05f7eefedeaa9fa376978ead12edc5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135894_jpg.rf.f86d33d285f10c969d5c7fbb22eb93d5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135901_jpg.rf.9628287d04adaf30fd9c5ff9241f90a8.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135903_jpg.rf.dfeb1019f2d464a60044a6ecf79732db.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135937_jpg.rf.0ffcd5c572299512f25480eb34eb3434.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135962_jpg.rf.067a2d64fe9132c5f0b08e60209d18c8.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135975_jpg.rf.f1c1e6471956ae1f73074dc872782521.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/135979_jpg.rf.f999a85b2af26dc784ffe4315a8f4e38.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136029_jpg.rf.aee962c4205ba85755246ab0c6d6d79e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136042_jpg.rf.20564b9484958b75092d55d9834ee56d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136096_jpg.rf.ebfd8d9f57df3d11993fc0f21c76ea11.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136109_jpg.rf.15102d1913fcfe1f3370a5e4063c1d05.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136130_jpg.rf.56e0e937839805929329809e59bafeb5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136149_jpg.rf.73f1ddd721a141db111e77a6d69a0407.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136180_jpg.rf.a851173cb720e0ed8c79522f5de126e4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136182_jpg.rf.4e250a83416cd6c3978c00f236f132e3.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136184_jpg.rf.40adf0e7464eb7faa609153567fc750e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136186_jpg.rf.c8499c9125d3d45dbdc099aeaa6f3798.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136194_jpg.rf.7a420d914b0800655aac07a58d8d7d96.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136202_jpg.rf.9692119474a9200b5c80c321b74651c9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136208_jpg.rf.c1ed1e9fd991b8acb74f9cb70bcc7bff.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136214_jpg.rf.559780778850a6a24f13fa56d54e3e80.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136217_jpg.rf.1be60aaf709c25fde2cfd5f70426deff.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136218_jpg.rf.719d6d10ce401e67024bad5b4525e422.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136265_jpg.rf.2fb29cead9286d2ce207bada7b18e5f6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/136673_jpg.rf.3bd6a78399c661da5b3b63f456ff97aa.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/139973_jpg.rf.4d7740843c87079aa081b7a21b1581bb.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/140002_jpg.rf.27e0d7f4c1f767fa91f3745668853ac4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/145346_jpg.rf.25f61eda35e3be41f427219170101eda.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/145348_jpg.rf.b6e54c2fc6e538535348946db1129a7c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/145478_jpg.rf.43b5798623c7e07470df9bed4a69f0f7.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/146486_jpg.rf.1edce177234a2b535c54c76becb413fd.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/146573_jpg.rf.038388f806b390e5b3b3ccf97b1679ef.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/147561_jpg.rf.3bf10f34115fba4d339c73084e6ad49e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/149665_jpg.rf.933a7972aee3fa37bf4d1d3287f7e5f5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/149680_jpg.rf.1dc5af6eda17f5a7570bbe475a906cc3.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/149698_jpg.rf.972e52dc8db7e83802049f6f40c012e4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/176846_jpg.rf.246d8bb32b2ba3fb2e333e40218388b2.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/176850_jpg.rf.81702e23cedb80dbf13d1f385532d5cb.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/176863_jpg.rf.7ab77bb06bc57c6936e04478d97d11f6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/176869_jpg.rf.7995a496d2e7eb48ffa798bdd18cfb39.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/178555_jpg.rf.328eaf2e58ed1a2c32e999dcb933e0d5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/178559_jpg.rf.2c7ecc7c56db2724f79d87a87a5bc3d4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/178563_jpg.rf.f4fdb9c355f91684cb1f60e30e93645c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/178568_jpg.rf.7f7da2d64b456df58e2f77ab94a4aadb.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/178570_jpg.rf.9dd9f475b0f1ff168c55112288db4acf.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/178571_jpg.rf.e83a78d8b16bd2c284b03f9c96d6eeca.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/178578_jpg.rf.dea96651758c5aab81e3fa6d191beca4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/194238_jpg.rf.15832e044389ff9a8c525491ea5bfe8e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/195338_jpg.rf.e27078a40c99a973e85a3333656412ba.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/197305_jpg.rf.4eaa44cada0f7ef86d44ca65c6686c3b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/202424_jpg.rf.c5e97be553bebabb904a6f873d3336bc.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250408_131011.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250408_131529.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250408_132020.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250409_092231.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250412_183712.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250412_184742.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250412_184821.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250412_185422.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250412_190106.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/20250412_190303.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/204147_jpg.rf.12ad6b8a486091894eea216d9f9f11ad.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/207409_jpg.rf.df1ac884ac1dc38bad7efae0b8812731.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/209773_jpg.rf.27570ec5afcbf82f5477ef4b7fb12012.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/211060_jpg.rf.f0f4f7ee25178384fe316eed10945a4f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/211062_jpg.rf.63ebf8392771e8da038e06a3a47140d8.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/212728_jpg.rf.0ffec11c47bf58d12a34e9d1034cedf2.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/212729_jpg.rf.cd04be8419ee47cbc4eceaac4d9f7d9a.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/213005_jpg.rf.f3a2ff8934fe28cbca82e7120c9a5a7e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/215175_jpg.rf.b490d18f79553e391629be62cabdd7d6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/220366_jpg.rf.2f8ab755839b56f62631db43708791ed.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/220377_jpg.rf.00499c0359ce2f7c72a227da87f2daa0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/220387_jpg.rf.66b8422ef9f4e752d8af2f90f2f29f2a.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/228386_jpg.rf.ebb8d510914370bbe5876cfc29dd39d4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/242883_jpg.rf.3cc544db8e24939a938cc69dbc2922ab.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/248157_jpg.rf.97042a39b3e0d6516ffef7dbca4bdff5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/248908_jpg.rf.afb8e4217f9682ba3b2350bca456a299.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/249315_jpg.rf.32ba18d5eaff9edaeb1bcacb95f795ee.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/249316_jpg.rf.83d6148337b490c78e3dca4fd0a35d17.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/250083_jpg.rf.748fa5ba333b8386cf9d0461ba40ec6e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/250090_jpg.rf.a9e89eca6c5ee6076a1dc59070e3cdfe.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/255822_jpg.rf.9efc616fcf6b0090b4073634cd612d47.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/255849_jpg.rf.191e77b57c35a5442a2a3324ea4b09ed.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/257975_jpg.rf.52ad23ba529fb28e3c235b7372bf55bc.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/257982_jpg.rf.1ad23aab7f2b1019b69be30fc284acb0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/257988_jpg.rf.4d72a26840481a16e97f04acddb1967a.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/257996_jpg.rf.d3cf9c0bef45d4e5332ea450911c34fd.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/258311_jpg.rf.7f1acf6a4d46cebf215c082080a93eac.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/259573_jpg.rf.c91a24dabaf3dc0631d24d1fe2f9ea72.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/262094_jpg.rf.b51cbaf929e3c5df20ef838dcfe06da2.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/262113_jpg.rf.35bb8862c492b87261d2b03689ef625d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/262594_jpg.rf.8756ce9715719a15b3ca9e6f4cbd718a.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/263138_jpg.rf.327b9b660add7ef2a784c3b5c9e3d7d5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/263728_jpg.rf.c0ff570e84e17d117c4a73d7275ef88b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/263735_jpg.rf.806f0c1fe9b0c209d3c8037b195fbc21.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/263740_jpg.rf.81844b0c56b36aef4bde9744195cfcc0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/263747_jpg.rf.f7758423968355ed6c6578d298ee5bc6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/263749_jpg.rf.4cd3013ecb863051448e0cbaca162e7e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/263753_jpg.rf.d81f0eff6069f07c85e7f6979baaa03a.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/263767_jpg.rf.9805c7b88d2d5842bb33d2aa5ddd49c0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/263769_jpg.rf.e4fc3689f86cee06902594bb071468f1.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/264031_jpg.rf.78c6d6e8f9d8dd5e22cd34bbff5cfd97.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/265166_jpg.rf.f829f7ab379cd0fb6ca109a363f075a0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/265211_jpg.rf.469de504db65e68aea442a8f95772be4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/265444_jpg.rf.ebe1719510f18c5f47c80e8d8edd8e2f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/265446_jpg.rf.739b4912b8f686610a9c3b04ef1f08f1.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/265530_jpg.rf.b0776e0dea63554bf7a60e6048c7e89f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/265690_jpg.rf.422abdbdb1e7d271f01fe4a5e7a3f919.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/265724_jpg.rf.8f49505eb24aa6a9465a4cd63f009644.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/265730_jpg.rf.d5cf536a212925e6cb456d6e47c923a2.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/266356_jpg.rf.eda7f9e9bc8800395d47d01e85d05d43.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/266895_jpg.rf.3ce030133bbf8811c0ac8c9bae72c883.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/266899_jpg.rf.42f0996fdeeaf4b645fbb5785ba38563.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/276286_jpg.rf.4df109a202305817ce977fbcff38bd63.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/279637_jpg.rf.7c9b8aed134b121bbdecc017c1e96df4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/295763_jpg.rf.23acaf199d42a4d247b897edc7a1f726.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296010_jpg.rf.548558ec95d066529927b57dc8c035ba.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296012_jpg.rf.930d189d748d05a3da9735faee03ff0c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296016_jpg.rf.b7c2b245e24d0d79e0a809430b899a14.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296051_jpg.rf.ed2f15a9143706286329981e69f1c4f4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296363_jpg.rf.3aaec6d32c764de18dd1757efcb4583b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296415_jpg.rf.9aeff357b233724ef1be5330671a168a.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296416_jpg.rf.3beaed46d1988c6f6afc88b09b3cd07f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296420_jpg.rf.7dfe1ed08374cd9adeb29eab1a0da951.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296424_jpg.rf.698ab89781e2335fd09273bfa0729113.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296431_jpg.rf.e0f7f2085faf6e8588a0698f14c5059f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296821_jpg.rf.9f74c9a959c4f73cd8551214760b6c70.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296828_jpg.rf.4c5a1d68364005978228dd2cd738cbec.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296839_jpg.rf.b3d08360053d2e0511d58c3d19da9445.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296846_jpg.rf.c001f15ebb8151326beb1752c7dc9663.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296849_jpg.rf.0b21a7780da64b26939dd3dd175efaf7.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296879_jpg.rf.06acd53904da3c2c52631016a9b3d2aa.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296892_jpg.rf.fb57b34a98558c7a746ef1d09e6bfe68.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/296915_jpg.rf.1a80e692d7ab5bde9486008f0b8c233d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297080_jpg.rf.09d8b5f121a30fdae1041996f2fd16c9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297110_jpg.rf.50f8bd22e56b3204ed26ff2d23fd1343.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297117_jpg.rf.b1be977fd39afbeb1a9419f9abc54136.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297126_jpg.rf.e1efcd3ddcc596d146274e5029304794.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297127_jpg.rf.0edd21f0daed3b07a386e53d2312b109.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297130_jpg.rf.34208294ddf4b306ccf650f1b7b4f74f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297133_jpg.rf.fdca83e7b26cff482fbb1bd94008006d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297151_jpg.rf.a13fbb65031c7415c5df631c29814209.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297155_jpg.rf.f928c44699c1bc3e24540ad475367130.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297156_jpg.rf.8c77eb3fb39ad8c2dfc559a0d7bace55.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297168_jpg.rf.b3d5cf1ebb401f01a8ff947c56d93104.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297175_jpg.rf.524df6b400cb89ca778639fe60d8aa40.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297319_jpg.rf.019e078f51a9268596ed87bd447afe2f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297323_jpg.rf.8007bd1bf5f035e9448083b4abbb1977.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297324_jpg.rf.59017738079c031b1b018d136a87eb3d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297337_jpg.rf.a87ed78aeb424df888c8550ae5706448.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297340_jpg.rf.c42302df2261e0aa9e90447eda858225.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/297641_jpg.rf.e45e0f812a82c80964175f553cf751f9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/298087_jpg.rf.5c5f86b5d153823cc4da4846b1220d90.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/298288_jpg.rf.d8a1c54a6b05b48453dd0f7475dea56c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/298294_jpg.rf.3b6ee74a29496e01dabf71bc4997e310.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/298330_jpg.rf.dbf7034b895d62bf518e78919ce12eb0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/298332_jpg.rf.359adc655077057df38f847f32ef25e3.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/298346_jpg.rf.17bbe2232274a0b696911a14aeae9011.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/299137_jpg.rf.70f8388b13658a5e18c881cd33af30a6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/299149_jpg.rf.ab0898b529409aa4282c55debdd16930.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/300495_jpg.rf.25049134bc76b2ba22482df25e457997.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/302727_jpg.rf.794cf67c6522816286d55fac032c2464.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/302944_jpg.rf.41a1af908d267ba0bfed24faa08c921b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303034_jpg.rf.37b2d9cf848c4fcad6b10b95f59c9a3e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303062_jpg.rf.d402f18edcf1c2841b691cd3a8b490f0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303273_jpg.rf.f6d351162dd85c7ea5df68e85db8770d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303276_jpg.rf.4d8334a9983911e9931f0270e048083e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303278_jpg.rf.4215c4676a3b4793ec13892d4b2b7174.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303304_jpg.rf.859f21a448cc3883c61cdf129ed349b0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303381_jpg.rf.c69c1558d39441dd4ffd6af256216960.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303462_jpg.rf.5a80bd8150e6312ab7d596fa324deec1.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303590_jpg.rf.803d91bef0d87f19697e1778f18dcd63.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303592_jpg.rf.5da359c6c731eaa3f20c6302ea02931c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303594_jpg.rf.2acd8ffbae8531d1cf12aa7aca1d7dbe.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303598_jpg.rf.642ba409192e8bf1e8d59ce02902b116.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303616_jpg.rf.d8cceaa860982812c799a1e4eec82e38.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303635_jpg.rf.498b8b636e8adc96036da83cffa59f89.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303636_jpg.rf.1a74b623244fccc011c261cccea2a6b1.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/303642_jpg.rf.04d2e8f451058c01690433a08ecb23ec.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/304192_jpg.rf.ba32a90720e6503a69c03bceffbfb5eb.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/304193_jpg.rf.00103bc7732e019a3650c8be9ec01eba.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/304627_jpg.rf.8f7a24ea04a781bfbd96cbb6fbcbb44c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/304635_jpg.rf.f4938152e3a93de314cf4ec0b7b139ba.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/304690_jpg.rf.1e2f1d373e34230d564e9fd4c9cf3fe8.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/304708_jpg.rf.75953436fa4f45612441e3f06082df80.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/304717_jpg.rf.b13ec97d4f8df27a4465a36604aa68ae.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/306515_jpg.rf.b55fa96045c3b14afa96ac165de99032.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/306985_jpg.rf.fb2273392b2dc96f43fe0ed6d96ddc59.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/306996_jpg.rf.0731d441e39f1457d84d24a27b762992.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/308944_jpg.rf.e1de27a4b9fb556985b9adaa30619813.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/309169_jpg.rf.a5bc473a3a35dd7d05a23bf1bd6a02bc.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/309599_jpg.rf.10e2de72d9ee6a9b639fe4b65c6fe840.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/309606_jpg.rf.fc0ae25f6fde2242048e272d46a8d42d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/309984_jpg.rf.dfd2cc890549be90f62df5da595b3c82.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/310000_jpg.rf.2ce61b04bbe3d8e492f06fc9b0534d59.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/310009_jpg.rf.fdaf33bc79a7409a7fdbe1eafc3f444c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/310019_jpg.rf.8fc05f673dd49d6829616fa443cb0f1f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/310032_jpg.rf.8acec3116074fbb5f6c7dc08a2c5fd1c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/310034_jpg.rf.2e493761e193ed281dbfffa03594fd8e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/319038_jpg.rf.14ceb522c5e948e17820e03765e15df8.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/319078_jpg.rf.a1d4919a1cbc731a2f6f865e6e61c69b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/320066_jpg.rf.d02aade27f09a43879e6180a04e31133.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/320069_jpg.rf.cb36bdb4a74e56e2c5019115acd02f30.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/320410_jpg.rf.906f0337fbbd927f8d62ea928196dec8.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/320413_jpg.rf.f689b1981c85fcd2e275b1ac5a04d21f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/320436_jpg.rf.07f199b1c9113b45bdb03291a284f191.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/323283_jpg.rf.a32ae63dc135fc78136308959bbf8821.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/323306_jpg.rf.0d3615f5416fb8f270e9863a0901fcfd.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/323888_jpg.rf.62005f30863e5265a375f056450d0ee6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/324411_jpg.rf.93eb27459fdb143824605b0d15041fbb.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/324629_jpg.rf.8e5bf7b8ee33b3b85827f78111aa1be4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/324635_jpg.rf.b82b631bc4999b7c409b03046064b595.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/324653_jpg.rf.6868cefdc3315463be77328c40f5d9d9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/325069_jpg.rf.8cff955f797efc319ca5b82c3ccb8d37.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/325073_jpg.rf.d0bf1a42ec01fd33f6c9bc2e0b4b82b9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/325080_jpg.rf.b2648f204cc373b64feb875637d8cdf3.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/325087_jpg.rf.7618c77942554284d134d48f78f00c33.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/325121_jpg.rf.07a27e4909ffcbdcf4c7222839118e02.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/325123_jpg.rf.0c8ed1a48da1f9c46c09fb107d245cbe.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/325433_jpg.rf.1af107f56fdbb8cc8d061081b3fc9661.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/325532_jpg.rf.5fdf426c1f1e9db5a397c58441b94994.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/325534_jpg.rf.beb457de05e83a17e62144e3129ee056.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/326416_jpg.rf.166e7990b72b53e185d32df047d8efc5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/327376_jpg.rf.a88bc8ff260935fc2e1214a1d8f84d86.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/328584_jpg.rf.da37071612754c5bc37af74b95bb836b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/328969_jpg.rf.aa47a2e8138fbca2ffbaf1f8af783646.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/329015_jpg.rf.81b6cab952bc417f139484801b9e7c09.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/329448_jpg.rf.f53a19dcfd45328a3326e2249aa37b94.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/329490_jpg.rf.38411cb5f9cf43ff3e04fa704ccb07dd.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/330577_jpg.rf.b0a7432b8d02a352ddb8f72a2ad40ef5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/330594_jpg.rf.40d37522aaaba673e262e0b6b3a40232.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/331182_jpg.rf.e5f0dd6fe71d54b8b4ac3cb87eaff663.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/331199_jpg.rf.0ff702955bfde0a9afc846076390447f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/332210_jpg.rf.cc8f1f0d95b4a0c3ec1f638c43d094eb.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/332216_jpg.rf.e3efe65daa441ba64e79cd059f619f50.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/332283_jpg.rf.f71f99c54795ba744a9157a9e4ab6023.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/335426_jpg.rf.628d5bd74b623d0d7e887b863623ea7d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/335427_jpg.rf.19cb6e44f99c911a92d04ff3ff44e70b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/335466_jpg.rf.8fc60d4bf66f68240767411b5def891c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/337949_jpg.rf.1582a04dc1b7a5e8ca260d554674258a.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/338167_jpg.rf.7f6f07d903e83fea2502098dd464b3b4.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/338184_jpg.rf.6f5db8c486624541f8b053c12c1c935d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/338186_jpg.rf.01ed8243d9605924aa111b5842be2550.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/338489_jpg.rf.eafbca64d9860021cf2434ec15b26b31.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/338507_jpg.rf.8b8a95130c1e9710f99a672138a350d3.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/338529_jpg.rf.68a32ca4c69221db465e7ddaff4632f6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/338965_jpg.rf.383f411d409cec25588dc22a50ff405f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/339000_jpg.rf.935976261b8a818f1400ff738744a341.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/339044_jpg.rf.2cfe7dca2039efbb96738e5c586df222.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/340695_jpg.rf.35da2c65467dcea9fee498e164e66058.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/341012_jpg.rf.e68c8e0a4ced4109321c1d7af629c2c2.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/341050_jpg.rf.62756704f6b399a330d7233e0e8ef59b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/341051_jpg.rf.827a934991a9ec1f7b5bd1348fde7532.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/342631_jpg.rf.5504803088b108a21afb58930378c388.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/342708_jpg.rf.b583a165cb5ee16056c9e78231fcdd41.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/342709_jpg.rf.9e64b134b6f27c9dcc2f9e7bba67bc1b.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/342710_jpg.rf.aa1268d37f98252481cffd6649b2a5e6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/342713_jpg.rf.8176bf14039ef5cc92ca70c75aca5401.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/342743_jpg.rf.6009b0c3fa13d550d6fa63228c0b3d3d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/342745_jpg.rf.37fa8dad1c33523c6739cf3077b26414.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/369905_jpg.rf.65d4a681e7574c03b4779f1c8d42854e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/372458_jpg.rf.f7aff51bc18141dadf965442fcc0647d.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/372463_jpg.rf.1e6b8d51c7840e79dcbcda0d87a4b115.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/372480_jpg.rf.180048a0e7275ce10f0041bb09723c4c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/372483_jpg.rf.5240c24ed989c80d94abdece70140364.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/386358_jpg.rf.544bb79589a25bd30194205787fa39b7.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/399425_jpg.rf.b042740a07f455e4f33ff8a5295f3e81.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/399431_jpg.rf.2a47234bae572bd92d236d63c521131e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/402272_jpg.rf.6b8a6c22b46f07d570fcbdf99c320561.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/412219_jpg.rf.ad42f475ce0e67df776057871dc9d2e2.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/412221_jpg.rf.34d6d5148a05bce95366a134e29c5f2a.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/412224_jpg.rf.3eaeb37469a5c0b36b9805774d8662a9.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/416626_jpg.rf.c2bb82306df28cf6a060ddb12c56cde2.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/420447_jpg.rf.a24b77e8add5b8f5af9fdcbe92cd1ec3.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/420865_jpg.rf.af5667224783aeac47e228935de7f320.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/421129_jpg.rf.80174c3269acb43cd7fb6ff69f961f34.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/421138_jpg.rf.36d7b0d462f6dbc64cccc8742f425e42.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/421148_jpg.rf.5d52ad7c6fdda242e73606751699ee39.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/421151_jpg.rf.2ee7c7d0603b22cd838e702187d4b280.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/425325_jpg.rf.d6a7ae923e04b5173d9d7f510c83a4af.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/425916_jpg.rf.bb3eb8e0848feffc72653d601b0c88ae.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/425930_jpg.rf.ec37f9dd126ec63222fad6fefc987d4f.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/427367_jpg.rf.be0b01672dc482eb89e6166e23324bd3.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/427394_jpg.rf.e4146e4cc8ff0b2f5717a238a6a1e20e.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/443420_jpg.rf.bf0c5e083a3d8dd43e2a618e1e647317.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan1,027.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan1,029.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan1,040.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan1,056.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan1,059.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan104.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan110.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan113.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan154.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan183.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan198.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan209.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan225.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan227.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan24.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan298.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan32.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan355.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan361.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan371.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan397.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan402.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan422.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan426.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan449.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan484.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan497.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan537.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan567.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan583.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan584.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan60.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan624.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan664.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan673.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan679.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan733.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan744.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan754.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan761.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan789.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan818.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan828.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan84.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan899.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan916.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan92.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/AluCan973.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,009.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,017.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,060.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,069.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,091.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,100.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,110.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,114.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,123.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,171.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,174.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,197.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,203.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,214.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,234.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,235.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,240.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,260.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,267.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,281.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,283.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass1,295.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass101 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass109 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass11.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass110 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass117.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass122.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass162 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass189 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass214 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass254 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass259 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass265 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass266 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass273 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass274 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass291 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass297 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass301 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass323 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass357 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass370 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass387 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass389 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass390 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass393 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass397 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass398 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass415 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass498 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass561.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass587.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass60.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass610.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass62.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass627.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass649.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass651.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass652.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass669.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass676.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass685.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass689.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass697.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass705.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass708.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass728.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass730.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass771.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass796.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass804.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass817.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass837.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass845.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass847.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass861.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass877.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass887.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass898.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass917.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass924.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/Glass979.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM1,004.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM1,012.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM10.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM112.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM135.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM214.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM215.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM239.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM25.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM26.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM272.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM277.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM287.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM288.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM30.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM305.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM312.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM341.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM35.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM364.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM398.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM424.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM426.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM462.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM480.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM521.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM598.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM610.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM617.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM620.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM670.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM700.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM713.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM715.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM722.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM794.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM806.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM808.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM831.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM836.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM841.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM851.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM861.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM869.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM876.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM888.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM893.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM896.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM909.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM926.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM932.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM938.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM942.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM960.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM964.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/HDPEM976.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412181722.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412181742.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412181750.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412181845.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412181850.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412181859.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412181951.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412182158.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412182218.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412182309.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412182357.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412182417.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412182613.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412182718.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412183536.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412183829.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412184722.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412185658.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412185718.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412185836.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412185838.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG20250412185853.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250408_131014.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250408_131307.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250408_132234.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250408_132456.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250408_135845.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250408_135910.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250408_140001.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250408_175322.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250408_175351.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250409_091748.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250409_091956.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250409_092309.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_132103.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_132321.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_132324.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_132353.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_132445.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_132509.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_132558.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_135755.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_140333.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_181709.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_182250.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_182929.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_183010.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_183704.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_183719.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_183812.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_190113.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_190639.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_20250412_190722.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_4865.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_4869.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_4874.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_4887.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_4893.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_4914.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_4939.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_4994.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_5042.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/IMG_5063.JPG
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,016.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,026.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,075.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,095.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,101.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,121.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,128.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,145.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,169.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,176.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,189.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,225.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,226.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,235.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,262.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,264.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,321.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,324.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,343.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,354.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,374.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,388.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,394.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,524.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,534.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,537.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,552.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,591.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,609.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,624.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,635.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,650.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,687.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,698.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,708.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,712.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,726.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,732.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,759.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET1,772.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET284.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET309.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET322.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET330.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET357.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET358.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET366.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET494.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET509.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET511.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET522.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET559.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET574.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET590.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET593.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET657.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET664.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET674.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET677.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET696.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET708.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET743.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET747.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET749.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET752.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET797.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET809.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET811.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET851.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET861.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET880.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET885.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET913.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET923.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET947.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/PET963.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUID130d9d1b7dea493186dc848731d3b992.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUID40c43dfff0ec4c868b77d0b311a0aad7.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUID5a49221b564a4fd4ad558d195c93fb72.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUID5cd8aecf438948d79fb7cc4418e1e086.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUID9b1ceaf170b5489da1b69e3d1db2adf0.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUIDa4145292b4694c5b93f3fd5d6210f1e7.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUIDd46c0a89f81f41328852d6fb0d5f1670.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUIDd5be7d80a6e141eebfae641dd7793b9c.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUIDea3e8b6664ce47e7af11324efb50c793.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/RUIDecc4ccd704ec40a9a04883d77814f861.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass162.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass180.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass186.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass205.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass222.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass224.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass226.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass232.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass278.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown-glass52.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown_box_12.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/brown_box_15.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard12 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard124.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard129 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard130 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard137.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard148.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard154.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard169.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard179.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard18 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard184 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard19.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard22.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard36.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard39.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard550.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard563.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard564.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard733.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard826.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard852.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard867.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard879.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard881.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/cardboard89.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/chopstick_covers_11.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/chopstick_covers_19.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/chopstick_covers_2.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/chopstick_covers_28.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass110.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass123.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass128.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass141.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass145.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass152.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass170.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass171.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass180.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass194.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass213.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass214.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass229.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass232.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass256.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass269.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass308.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass318.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass357.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass392.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass403.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass427.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass460.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass463.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass471.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glass91.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glassbottle (232) - Copy.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/glassbottle (268).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/green-glass405.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/green-glass608.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal123.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal152.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal164 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal194.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal196 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal200 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal225 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal255.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal271 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal28 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal293 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal307.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal316 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal327.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal369 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal380 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal404 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal426.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal429.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal438.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal440.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal446.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal450.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal467.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal53 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal59 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal59.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal68.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal757.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/metal84 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/milkbox (67).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/nailpolishbottle (760).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/nailpolishbottle (875).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/nailpolishbottle (924).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper1013.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper107.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper109.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper12 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper136.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper151.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper157.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper16 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper16.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper161 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper168 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper176.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper188.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper19 (3).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper194 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper219.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper223.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper224.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper229.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper234.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper24.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper256 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper256.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper279.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper307.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper309 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper328 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper33 (3).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper337.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper340 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper35 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper351.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper353.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper354.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper364.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper368 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper376 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper376.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper38 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper382 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper39 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper393.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper398.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper406 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper415.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper433.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper447.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper45 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper462.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper471.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper486.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper505 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper516 (3).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper521.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper535.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper548 (3).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper565 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper576.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper587 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper589 (3).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper59 (3).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper600.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper646.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper65 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper756.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper835.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper866.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper88 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper88.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper92.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper95.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper972.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper980.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper_bowl_small_1.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/paper_bowl_square_10.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic100 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic106 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic11.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic114.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic133.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic141 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic146 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic158.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic166 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic167.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic17.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic170 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic180 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic185.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic186.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic187.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic188 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic213 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic236.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic239.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic241 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic254.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic262.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic283 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic293 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic311 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic335.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic338 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic343 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic35 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic350 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic351.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic356 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic363 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic365.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic379 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic39 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic39.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic401 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic420 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic420.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic428 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic428.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic433 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic444 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic456.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic457 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic463.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic479 (2).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic524.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic573.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic577.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic59.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic595.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic596.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic618.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic626.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic632.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic633.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic640.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic644.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic647.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic654.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic665.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic68.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic680.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic684.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic685.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic688.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_cover_17.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_cover_20.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_cover_24.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_cover_5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_cup_10.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_cup_12.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_cup_13.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_cup_51.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_lid_17.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_lid_42.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_lid_6.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_utensil_16.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_utensil_22.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/plastic_utensil_5.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/sauce_cup_11.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/sauce_cup_32.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/sauce_cup_56.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/tissue_paper_18.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/tissue_paper_2.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/tissue_paper_21.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/tissue_paper_39.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/tissue_paper_46.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/toothbrush (63).jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/trash3.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/trash45.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/trash75.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/trash80.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/trash86.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass107.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass128.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass13.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass181.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass19.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass190.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass223.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass62.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass72.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass755.jpg
+/kaggle/input/datasets/nhichu/ttcs-data-01/export/train/images/white-glass761.jpg

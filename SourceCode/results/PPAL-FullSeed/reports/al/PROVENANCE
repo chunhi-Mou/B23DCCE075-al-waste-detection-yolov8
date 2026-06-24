@@ -1,0 +1,7 @@
+AL benchmark — provenance
+
+strategies: ['ppal']
+seeds present: [13, 42, 1337]  (AUBC-complete: {'ppal': [13, 42, 1337]})
+schedule: {'init_frac': 0.05, 'step_frac': 0.025, 'cap_frac': 0.2}
+numpy 2.4.6 scipy 1.16.3
+Grounding: MI-AOD VOC arXiv:2104.02324; PPAL arXiv:2211.11612; Brust arXiv:1809.09875; Sener arXiv:1708.00489; Demšar JMLR 2006; Gashi arXiv:2403.14800.

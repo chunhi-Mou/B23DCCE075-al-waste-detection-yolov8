@@ -1,0 +1,2 @@
+strategy,AUBC,mAP_at_cap,n_seeds
+S3 PPAL,0.829 ± 0.006,0.884 ± 0.012,3

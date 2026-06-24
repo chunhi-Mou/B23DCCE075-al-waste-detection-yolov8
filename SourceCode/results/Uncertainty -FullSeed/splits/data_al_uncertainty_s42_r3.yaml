@@ -1,0 +1,10 @@
+names:
+- cardboard
+- paper
+- glass
+- metal
+- plastic
+nc: 5
+test: /kaggle/input/datasets/nhichu/ttcs-data-01/export/test/images
+train: /kaggle/working/splits/al_uncertainty_s42_r3.txt
+val: /kaggle/input/datasets/nhichu/ttcs-data-01/export/val/images

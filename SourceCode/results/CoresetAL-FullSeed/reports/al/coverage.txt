@@ -1,0 +1,6 @@
+| strategy | seed | rounds_done | AUBC-complete |
+| --- | --- | --- | --- |
+| coreset | 13 | 7 | yes |
+| coreset | 42 | 7 | yes |
+| coreset | 1337 | 7 | yes |
+

@@ -1,0 +1,3 @@
+Paired tests over n=3 seeds. With n<6 the Wilcoxon signed-rank test cannot reach p<0.05 (min two-sided p at n=5 is 0.0625; n=3 is 0.25); n=6 is the minimum that can. Treat significance as low-powered, report effect size + CI (Demšar 2006).
+
+

@@ -1,0 +1,6 @@
+| strategy | seed | rounds_done | AUBC-complete |
+| --- | --- | --- | --- |
+| ppal | 13 | 7 | yes |
+| ppal | 42 | 7 | yes |
+| ppal | 1337 | 7 | yes |
+

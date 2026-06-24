@@ -1,0 +1,118 @@
+al:
+  acq_batch: 32
+  analysis:
+    alpha: 0.05
+    primary_endpoint: aubc
+    tests:
+    - paired_t
+  batch: 64
+  cache: disk
+  coreset:
+    distance: l2
+    embed_layer: null
+    l2_normalize: false
+  epochs: 30
+  imgsz: 416
+  model: yolov8n.pt
+  patience: 30
+  ppal:
+    alpha: 0.3
+    delta: 4
+    ema_momentum: 0.98
+    embed_layers:
+    - 15
+    - 18
+    - 21
+    kmeans_iter: 100
+    metric: cosine
+    score_thr: 0.05
+    weight_ub: 0.2
+    xi: 0.6
+  pretrained: true
+  project: runs/al
+  schedule:
+    cap_frac: 0.2
+    init_frac: 0.05
+    step_frac: 0.025
+  seeds_n: 3
+  state_dir: state/al
+  strategies:
+  - random
+  - uncertainty
+  - coreset
+  - ppal
+  uncertainty:
+    aggregation: max
+    conf: 0.05
+    empty_value: 0.0
+  val: true
+baseline:
+  batch: 64
+  cache: false
+  epochs: 30
+  headroom_subset_frac: 0.05
+  imgsz: 416
+  model: yolov8n.pt
+  patience: 30
+  pretrained: true
+  project: runs/baseline
+  val: true
+classes:
+  names:
+  - cardboard
+  - paper
+  - glass
+  - metal
+  - plastic
+  nc: 5
+convergence:
+  epochs: 30
+  imgsz: 416
+  model: yolov8n.pt
+  patience: 12
+  pretrained: true
+  project: reports/convergence
+  train_sizes:
+  - 1000
+  - 2000
+  - 3000
+convergence_full:
+  epochs: 100
+  imgsz: 416
+  model: yolov8n.pt
+  patience: 25
+  pretrained: true
+  project: reports/convergence_full
+  train_sizes:
+  - 100000
+convergence_scratch:
+  epochs: 60
+  imgsz: 416
+  model: yolov8n.yaml
+  patience: 20
+  pretrained: false
+  project: reports/convergence_scratch
+  train_sizes:
+  - 1000
+  - 2000
+  - 3000
+dataset:
+  images_dir: images
+  labels_dir: labels
+  root: Dataset
+reports_dir: reports
+split:
+  min_images_per_class_per_split: 20
+  ratio_drift_tol: 0.03
+  ratios:
+  - 0.8
+  - 0.1
+  - 0.1
+  seed_index: 0
+splits_dir: splits
+visual_audit:
+  conf: 0.25
+  n_per_split: 60
+  splits:
+  - val
+  - test

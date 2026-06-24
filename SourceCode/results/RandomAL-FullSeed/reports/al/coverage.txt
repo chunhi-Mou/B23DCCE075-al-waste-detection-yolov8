@@ -1,0 +1,6 @@
+| strategy | seed | rounds_done | AUBC-complete |
+| --- | --- | --- | --- |
+| random | 13 | 7 | yes |
+| random | 42 | 7 | yes |
+| random | 1337 | 7 | yes |
+

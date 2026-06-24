@@ -1,0 +1,2 @@
+strategy,AUBC,mAP_at_cap,n_seeds
+S1 Uncertainty,0.833 ± 0.004,0.872 ± 0.004,3
