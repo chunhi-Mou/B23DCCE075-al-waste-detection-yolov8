@@ -1,0 +1,114 @@
+# Benchmark config - baseline + Active Learning (S0-S3).
+
+# DATASET & SPLIT
+dataset:
+  root: Dataset
+  images_dir: images
+  labels_dir: labels
+
+classes:
+  nc: 5
+  names: [cardboard, paper, glass, metal, plastic]
+
+split:
+  ratios: [0.8, 0.1, 0.1]              # train val test
+  seed_index: 0                        # seeds.yaml index
+  min_images_per_class_per_split: 20
+  ratio_drift_tol: 0.03
+
+# BASELINE TRAINING
+baseline:
+  model: yolov8n.pt
+  pretrained: true
+  epochs: 30
+  patience: 30
+  imgsz: 416
+  val: true
+  batch: 64
+  cache: disk
+  headroom_subset_frac: 0.05
+  project: runs/baseline
+
+# ACTIVE LEARNING
+al:
+  # -- training --
+  model: yolov8n.pt
+  pretrained: true
+  epochs: 30
+  patience: 30
+  val: true
+  batch: 64
+  cache: disk
+  imgsz: 416
+  # -- comparison --
+  strategies: [random, uncertainty, coreset, ppal]   # S0 S1 S2 S3
+  seeds_n: 3
+  acq_batch: 32              # pool-scoring inference batch
+  schedule:
+    init_frac: 0.05
+    step_frac: 0.025
+    cap_frac: 0.20
+  # -- per-strategy --
+  uncertainty:
+    aggregation: max         # max | sum | avg
+    conf: 0.05
+    empty_value: 0.0
+  coreset:
+    embed_layer: null        # null = backbone default
+    l2_normalize: false
+    distance: l2
+  ppal:
+    xi: 0.6
+    ema_momentum: 0.98
+    alpha: 0.3
+    weight_ub: 0.2
+    score_thr: 0.05
+    delta: 4
+    kmeans_iter: 100
+    embed_layers: [15, 18, 21]
+    metric: cosine
+  # -- analysis --
+  analysis:
+    primary_endpoint: aubc
+    alpha: 0.05
+    tests: [paired_t]
+  project: runs/al
+  state_dir: state/al
+
+# OUTPUTS
+reports_dir: reports
+splits_dir: splits
+
+# VISUAL AUDIT (SCRIPT 05)
+visual_audit:
+  splits: [val, test]
+  n_per_split: 60            # -1 = all
+  conf: 0.25
+
+# CONVERGENCE PROBES (MEASUREMENT ONLY, SCRIPT 08)
+convergence:                 # data-scaling, pretrained
+  model: yolov8n.pt
+  pretrained: true
+  imgsz: 416
+  epochs: 30
+  patience: 12
+  train_sizes: [1000, 2000, 3000]
+  project: reports/convergence
+
+convergence_scratch:         # data-scaling, from-scratch
+  model: yolov8n.yaml
+  pretrained: false
+  imgsz: 416
+  epochs: 60
+  patience: 20
+  train_sizes: [1000, 2000, 3000]
+  project: reports/convergence_scratch
+
+convergence_full:            # full-data, one-off
+  model: yolov8n.pt
+  pretrained: true
+  imgsz: 416
+  epochs: 100
+  patience: 25
+  train_sizes: [100000]      # clamped to full split
+  project: reports/convergence_full

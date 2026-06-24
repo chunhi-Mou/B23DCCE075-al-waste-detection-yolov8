@@ -1,0 +1,2 @@
+# Central seeds. First al.seeds_n (=3) are the canonical benchmark draw, rest for ad-hoc ablation.
+seeds: [13, 42, 1337, 2718, 31415, 65536]
