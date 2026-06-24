@@ -1,6 +1,18 @@
 # Mã nguồn pipeline Active Learning phát hiện rác thải với YOLOv8
 
-Thư mục này chứa toàn bộ mã nguồn cần thiết để tái lập pipeline của khóa luận, bao gồm chuẩn bị dữ liệu, huấn luyện mô hình đối chứng, chạy bốn chiến lược Active Learning, tổng hợp báo cáo và ứng dụng web demo. Thư mục không bao gồm dữ liệu và trọng số mô hình.
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
+![YOLOv8n](https://img.shields.io/badge/YOLOv8n-Ultralytics-00BFA5)
+![Gradio](https://img.shields.io/badge/Demo-Gradio-F97316?logo=gradio&logoColor=white)
+![Windows](https://img.shields.io/badge/Run-Windows%20.bat-0078D6?logo=windows&logoColor=white)
+![PTIT](https://img.shields.io/badge/PTIT-2026-C2185B)
+
+Thư mục này chứa toàn bộ mã nguồn cần thiết để tái lập pipeline của đề tài: chuẩn bị dữ liệu, huấn luyện mô hình đối chứng, chạy bốn chiến lược Active Learning, tổng hợp báo cáo và ứng dụng web demo. Thư mục không bao gồm dữ liệu và trọng số mô hình.
+
+## Mục lục
+
+- [Cấu trúc thư mục](#cấu-trúc-thư-mục)
+- [Chạy pipeline](#chạy-pipeline)
+- [Dữ liệu gốc](#dữ-liệu-gốc)
 
 ## Cấu trúc thư mục
 
@@ -17,29 +29,46 @@ kaggle/                   Notebook chạy trên Kaggle
 demo/                     Ứng dụng web demo Gradio
 ```
 
-### albench/
+### Gói `albench/`
 
 Gói Python triển khai toàn bộ logic benchmark.
 
-- `config.py` đọc và hợp nhất cấu hình từ thư mục `configs/`.
-- `repro.py` cố định hạt giống và tính mã băm nhằm bảo đảm khả năng tái lập.
-- `al/` chứa engine Active Learning.
-  - `loop.py` là vòng lặp chính của mỗi lần chạy, gồm các bước chấm điểm kho dữ liệu, chọn lô ngân sách, huấn luyện lại và lặp.
-  - `select_random.py`, `select_uncertainty.py`, `select_coreset.py`, `select_ppal.py` lần lượt là bốn chiến lược chọn mẫu S0 đến S3.
-  - `ppal_difficulty.py`, `ppal_features.py`, `ppal_stage2.py`, `ccms.py` là các thành phần riêng của PPAL, gồm độ bất định hiệu chỉnh theo độ khó, trích xuất đặc trưng, chọn đa dạng giai đoạn hai và tái cân bằng theo lớp.
-  - `score_predictor.py` chạy suy luận để chấm điểm kho dữ liệu chưa gán nhãn.
-  - `init_set.py` tạo tập khởi tạo bảo đảm phủ lớp.
-  - `dataset.py` liệt kê kho dữ liệu, xác định lớp của từng ảnh và ghi tệp `data.yaml` cho mỗi vòng.
-  - `state.py` lưu và đọc trạng thái từng vòng để có thể tiếp tục khi gián đoạn.
-  - `device.py` chọn thiết bị tính toán theo thứ tự CUDA, MPS, CPU.
-  - `metrics.py`, `stats.py`, `health.py` đo mAP, chạy kiểm định thống kê và kiểm tra tính hợp lệ của kết quả.
-  - `charts.py`, `ppal_charts.py`, `tables.py`, `report_io.py` vẽ biểu đồ, lập bảng AUBC và đọc ghi tệp kết quả.
-- `data/` xử lý dữ liệu thô.
-  - `labels.py`, `audit.py`, `split.py` quét nhãn, kiểm định và tách tập train, val, test.
+| Thành phần | Vai trò |
+|---|---|
+| `config.py` | Đọc và hợp nhất cấu hình từ thư mục `configs/` |
+| `repro.py` | Cố định hạt giống và tính mã băm để bảo đảm tái lập |
+| `al/` | Engine Active Learning (xem bảng dưới) |
+| `data/` | Quét, kiểm định và tách dữ liệu thô |
 
-### bat/
+**`albench/al/` — engine Active Learning**
 
-Các tệp chạy tự động trên Windows, mỗi tệp phụ trách một bước, chạy riêng lẻ. Mỗi tệp tự chuyển về thư mục gốc của bundle, thiết lập đường dẫn, cài thư viện còn thiếu và truyền tham số phù hợp.
+| Tệp | Vai trò |
+|---|---|
+| `loop.py` | Vòng lặp chính mỗi lần chạy: chấm điểm kho dữ liệu, chọn lô ngân sách, huấn luyện lại, lặp |
+| `select_random.py` | ![S0](https://img.shields.io/badge/S0-Random-9E9E9E) Chọn ngẫu nhiên phân phối đều |
+| `select_uncertainty.py` | ![S1](https://img.shields.io/badge/S1-Uncertainty-1E88E5) Chọn theo độ bất định |
+| `select_coreset.py` | ![S2](https://img.shields.io/badge/S2-CoreSet-43A047) Chọn theo tính đa dạng |
+| `select_ppal.py` | ![S3](https://img.shields.io/badge/S3-PPAL-8E24AA) Chiến lược kết hợp hai giai đoạn |
+| `ppal_difficulty.py`, `ppal_features.py`, `ppal_stage2.py`, `ccms.py` | Thành phần riêng của PPAL: độ bất định hiệu chỉnh theo độ khó, trích xuất đặc trưng, chọn đa dạng giai đoạn hai, tái cân bằng theo lớp |
+| `score_predictor.py` | Suy luận để chấm điểm kho dữ liệu chưa gán nhãn |
+| `init_set.py` | Tạo tập khởi tạo bảo đảm phủ lớp |
+| `dataset.py` | Liệt kê kho dữ liệu, xác định lớp từng ảnh, ghi `data.yaml` cho mỗi vòng |
+| `state.py` | Lưu và đọc trạng thái từng vòng để tiếp tục khi gián đoạn |
+| `device.py` | Chọn thiết bị theo thứ tự CUDA, MPS, CPU |
+| `metrics.py`, `stats.py`, `health.py` | Đo mAP, kiểm định thống kê, kiểm tra tính hợp lệ kết quả |
+| `charts.py`, `ppal_charts.py`, `tables.py`, `report_io.py` | Vẽ biểu đồ, lập bảng AUBC, đọc ghi tệp kết quả |
+
+**`albench/data/` — xử lý dữ liệu thô**
+
+| Tệp | Vai trò |
+|---|---|
+| `labels.py` | Quét ảnh và nhãn |
+| `audit.py` | Kiểm định dataset |
+| `split.py` | Tách tập train, val, test |
+
+### `bat/`
+
+Các tệp chạy tự động trên Windows, mỗi tệp phụ trách một bước và chạy riêng lẻ. Mỗi tệp tự chuyển về thư mục gốc của bundle, thiết lập đường dẫn, cài thư viện còn thiếu và truyền tham số phù hợp.
 
 | Tệp | Chức năng |
 |---|---|
@@ -52,41 +81,49 @@ Các tệp chạy tự động trên Windows, mỗi tệp phụ trách một bư
 | `06_report.bat` | Tổng hợp biểu đồ, bảng AUBC và kiểm định t-test |
 | `07_demo.bat` | Khởi chạy ứng dụng web demo |
 
-### configs/
+### `configs/`
 
-- `benchmark.yaml` chứa mọi tham số của pipeline, gồm thông tin dữ liệu, cấu hình huấn luyện, lịch trình Active Learning và tham số từng chiến lược.
-- `seeds.yaml` khai báo tập hạt giống dùng cho thí nghiệm.
+| Tệp | Vai trò |
+|---|---|
+| `benchmark.yaml` | Mọi tham số pipeline: dữ liệu, cấu hình huấn luyện, lịch trình Active Learning, tham số từng chiến lược |
+| `seeds.yaml` | Khai báo tập hạt giống dùng cho thí nghiệm |
 
-### scripts/
+### `scripts/`
 
-Các script dòng lệnh được các tệp trong `bat/` và notebook trong `kaggle/` gọi tới.
+Các script dòng lệnh được các tệp `bat/` và notebook `kaggle/` gọi tới.
 
-- `01_audit_dataset.py` kiểm định dataset thô và xuất báo cáo.
-- `02_make_splits.py` tách tập train, val, test đã cố định và ghi mã băm.
-- `03_train_baseline.py` huấn luyện mô hình đối chứng.
-- `06_export_dataset.py` xuất dữ liệu thành cấu trúc ba thư mục độc lập trong `export/`.
-- `07_distribution_charts.py` vẽ biểu đồ phân bố lớp.
-- `10_run_al.py` điều phối việc chạy các chiến lược Active Learning theo từng hạt giống.
-- `11_al_report.py` tổng hợp kết quả thành biểu đồ, bảng và kiểm định thống kê.
+| Script | Vai trò |
+|---|---|
+| `01_audit_dataset.py` | Kiểm định dataset thô và xuất báo cáo |
+| `02_make_splits.py` | Tách tập train, val, test đã cố định và ghi mã băm |
+| `03_train_baseline.py` | Huấn luyện mô hình đối chứng |
+| `06_export_dataset.py` | Xuất dữ liệu thành cấu trúc ba thư mục độc lập trong `export/` |
+| `07_distribution_charts.py` | Vẽ biểu đồ phân bố lớp |
+| `10_run_al.py` | Điều phối chạy các chiến lược Active Learning theo từng hạt giống |
+| `11_al_report.py` | Tổng hợp kết quả thành biểu đồ, bảng và kiểm định thống kê |
 
-### kaggle/
+### `kaggle/`
 
-Hai notebook để chạy trên Kaggle với GPU P100, đọc mã nguồn và dữ liệu từ các Kaggle Dataset.
+Hai notebook chạy trên Kaggle với GPU T4, đọc mã nguồn và dữ liệu từ các Kaggle Dataset.
 
-- `kaggle_baseline.ipynb` huấn luyện mô hình đối chứng trên 100% dữ liệu.
-- `kaggle_al.ipynb` chạy bốn chiến lược Active Learning và tổng hợp báo cáo.
+| Notebook | Vai trò |
+|---|---|
+| `kaggle_baseline.ipynb` | Huấn luyện mô hình đối chứng trên 100% dữ liệu |
+| `kaggle_al.ipynb` | Chạy bốn chiến lược Active Learning và tổng hợp báo cáo |
 
-### demo/
+### `demo/`
 
-Ứng dụng web demo viết bằng Gradio, chỉ suy luận và không huấn luyện.
+Ứng dụng web demo viết bằng Gradio.
 
-- `app.py` dựng giao diện và kết nối các thành phần.
-- `engine.py` tìm trọng số mô hình và chạy suy luận trên ảnh tải lên.
-- `content.py` định dạng kết quả tiếng Việt và các thành phần hiển thị.
-- `charts.py` vẽ biểu đồ kết quả benchmark trong ứng dụng.
-- `icons.py` chứa biểu tượng dạng SVG.
-- `examples/` chứa ảnh mẫu cho phần thử nhanh.
-- `README.md` hướng dẫn riêng cho ứng dụng demo.
+| Thành phần | Vai trò |
+|---|---|
+| `app.py` | Dựng giao diện và kết nối các thành phần |
+| `engine.py` | Tìm trọng số mô hình và chạy suy luận trên ảnh tải lên |
+| `content.py` | Định dạng kết quả tiếng Việt và các thành phần hiển thị |
+| `charts.py` | Vẽ biểu đồ kết quả benchmark trong ứng dụng |
+| `icons.py` | Biểu tượng dạng SVG |
+| `examples/` | Ảnh mẫu cho phần thử nhanh |
+| `README.md` | Hướng dẫn riêng cho ứng dụng demo |
 
 ## Chạy pipeline
 
@@ -100,15 +137,15 @@ export/
 └─ test/images/   test/labels/
 ```
 
-Trên Windows, chạy lần lượt các tệp trong `bat/` theo thứ tự `01_baseline.bat`, bốn tệp AL từ `02` đến `05`, sau đó `06_report.bat` để tổng hợp kết quả và `07_demo.bat` để mở ứng dụng demo.
+Trên Windows, chạy lần lượt các tệp trong `bat/` theo thứ tự `01_baseline.bat`, bốn tệp AL từ `02` đến `05`, sau đó `06_report.bat` để tổng hợp kết quả và `07_demo.bat` để mở ứng dụng demo. Bốn tệp AL độc lập với nhau và có thể chạy theo thứ tự bất kỳ, nhưng cần hoàn thành cả bốn trước khi chạy `06_report.bat`.
 
 ## Dữ liệu gốc
 
-Thư mục `export/` ở trên đã được chia sẵn và đóng băng nên thông thường đủ để chạy toàn bộ pipeline. Chỉ khi cần dựng lại `export/` từ đầu bằng `00_prepare_data.bat` mới cần dữ liệu gốc, đặt vào thư mục `Dataset/` cùng cấp với `albench/` và `bat/`, theo cấu trúc phẳng sau.
+Thư mục `export/` ở trên đã được chia sẵn và cố định nên thông thường đủ để chạy toàn bộ pipeline. Chỉ khi cần dựng lại `export/` từ đầu bằng `00_prepare_data.bat` mới cần dữ liệu gốc, đặt vào thư mục `Dataset/` cùng cấp với `albench/` và `bat/`, theo cấu trúc phẳng sau.
 
 ```
 Dataset/
-├─ images/      Toàn bộ ảnh định dạng .jpg .jpeg hoặc .png, chưa chia tập
+├─ images/      Toàn bộ ảnh .jpg .jpeg hoặc .png, chưa chia tập
 └─ labels/      Nhãn .txt tương ứng, cùng tên tệp với ảnh
 ```
 
