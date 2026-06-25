@@ -196,7 +196,7 @@ def benchmark_table_html(aubc_rows: list[dict], baseline: dict | None) -> str:
     if baseline:
         body += (
             f'<tr style="border-top:2px solid {LINE};background:{SOFT}">'
-            f'<td style="padding:7px 10px;color:{INK};font-weight:600">Oracle 100%</td>'
+            f'<td style="padding:7px 10px;color:{INK};font-weight:600">Train 100% dữ liệu</td>'
             f'<td style="padding:7px 10px;text-align:right;color:{MUTED}">n/a</td>'
             f'<td style="padding:7px 10px;font-family:{MONO};font-size:12.5px;'
             f'text-align:right;color:{INK}">{baseline["test_mAP50"]:.3f}</td>'
@@ -219,13 +219,14 @@ def benchmark_table_html(aubc_rows: list[dict], baseline: dict | None) -> str:
 
 def results_note_html() -> str:
     return (
-        f'<div style="font-family:{FONT};font-size:12.5px;color:{MUTED};'
-        f'line-height:1.5;padding:2px 2px">'
-        f'<b style="color:{INK}">AUBC</b> = diện tích dưới đường hiệu năng (càng cao '
-        f'càng tốt trong suốt quá trình gán nhãn). Bốn chiến lược hơn kém nhau dưới '
-        f'1 mAP, và CoreSet còn thấp hơn Random, nhất quán với Gashi 2024 '
-        f'(AL khó vượt trội trên bài toán phát hiện) và điểm yếu đa-vật-thể của '
-        f'CoreSet. Số liệu đọc từ <code>results/*/reports/al/</code>; đây là kết quả '
-        f'benchmark đã ghi, không phải đo lại trong demo.'
+        f'<div style="font-family:{FONT};font-size:14px;color:{INK};'
+        f'line-height:1.6;padding:2px">'
+        f'<div><b>AUBC</b> là vùng dưới đường mAP theo % dữ liệu. Càng cao thì '
+        f'gán nhãn càng hiệu quả.</div>'
+        f'<div style="margin-top:6px">Bốn chiến lược chênh nhau dưới 1 mAP, gần như '
+        f'ngang nhau. CoreSet thấp hơn cả Random.</div>'
+        f'<div style="margin-top:6px;font-size:12.5px;color:{MUTED}">'
+        f'Số liệu lấy từ <code>results/*/reports/al/</code>. Đây là benchmark đã lưu.'
+        f'</div>'
         f'</div>'
     )

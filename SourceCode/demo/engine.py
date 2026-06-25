@@ -46,7 +46,7 @@ def _best_map50(run_dir: Path) -> float | None:
         return None
     vals: list[float] = []
     try:
-        with csv_path.open(newline="") as fh:
+        with csv_path.open(newline="", encoding="utf-8") as fh:
             for row in csv.DictReader(fh):
                 raw = row.get("metrics/mAP50(B)")
                 try:
@@ -212,7 +212,7 @@ def al_results() -> list[dict]:
         rows: list[dict] = []
         for p in sorted(RESULTS_DIR.glob("*/reports/al/results.csv")):
             try:
-                with p.open(newline="") as fh:
+                with p.open(newline="", encoding="utf-8") as fh:
                     for r in csv.DictReader(fh):
                         rows.append({
                             "strategy": r.get("strategy", ""),
@@ -239,7 +239,7 @@ def aubc_table() -> list[dict]:
     out: list[dict] = []
     for p in sorted(RESULTS_DIR.glob("*/reports/al/tbl_aubc.csv")):
         try:
-            with p.open(newline="") as fh:
+            with p.open(newline="", encoding="utf-8") as fh:
                 out.extend(csv.DictReader(fh))
         except OSError:
             continue

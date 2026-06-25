@@ -45,6 +45,18 @@ FORCE_LIGHT_JS = """
 }
 """
 
+STOP_CAMERA_JS = """
+() => {
+  document.querySelectorAll('video').forEach((v) => {
+    const s = v.srcObject;
+    if (s && s.getTracks) {
+      s.getTracks().forEach((t) => t.stop());
+      v.srcObject = null;
+    }
+  });
+}
+"""
+
 _HEADER_HTML = f"""
 <div id="app-header" style="display:flex;align-items:center;gap:14px">
   {svg("recycle", 34, "#16a34a")}
@@ -149,9 +161,15 @@ def _user_tab() -> None:
                                     label="Mô hình", interactive=bool(curated))
                 btn = gr.Button("Phân tích", variant="primary", scale=1)
             info = gr.HTML(content.model_info_md(curated.get(default)))
-            if _example_paths():
-                gr.Examples(examples=_example_paths(), inputs=img_in,
-                            label="Ảnh mẫu", examples_per_page=6)
+            examples = _example_paths()
+            if examples:
+                gallery = gr.Gallery(value=examples, columns=6, height=120,
+                                     allow_preview=False, label="Ảnh mẫu")
+
+                def pick_example(evt: gr.SelectData):
+                    return examples[evt.index]
+
+                gallery.select(pick_example, None, img_in)
         with gr.Column(scale=1):
             img_out = gr.Image(label="Kết quả", type="numpy", height=300)
             result = gr.HTML(elem_classes="result-panel")
@@ -205,12 +223,14 @@ def _dev_tab() -> None:
 def build_ui() -> gr.Blocks:
     with gr.Blocks(title="Phân loại rác thải · YOLOv8") as demo:
         gr.HTML(_HEADER_HTML)
-        with gr.Tab("Phân tích"):
-            _user_tab()
-        with gr.Tab("Kết quả huấn luyện"):
-            _results_tab()
-        with gr.Tab("Dev / So sánh"):
-            _dev_tab()
+        with gr.Tabs() as tabs:
+            with gr.Tab("Phân tích"):
+                _user_tab()
+            with gr.Tab("Kết quả huấn luyện"):
+                _results_tab()
+            with gr.Tab("Dev / So sánh"):
+                _dev_tab()
+        tabs.select(None, js=STOP_CAMERA_JS)
     return demo
 
 
